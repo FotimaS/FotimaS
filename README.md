@@ -64,11 +64,11 @@ I enjoy building intelligent systems, mentoring others, and exploring the synerg
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FotimaSayfullayeva&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FotimaSayfullayeva&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FotimaS&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaSayfullayeva&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaS&layout=compact&theme=radical" />
 </p>
 
 ---
