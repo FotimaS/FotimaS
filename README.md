@@ -63,7 +63,7 @@ I enjoy building intelligent systems, mentoring others, and exploring the synerg
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FotimaSayfullayeva&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FotimaS&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FotimaS&theme=radical" />
 </p>
 
