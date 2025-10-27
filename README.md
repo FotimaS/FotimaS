@@ -52,9 +52,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=FotimaSayfullayeva&theme=radical&show_icons=true&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=FotimaSayfullayeva&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaSayfullayeva&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=FotimaS&theme=radical&show_icons=true&hide_border=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=FotimaS&theme=radical&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaS&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
