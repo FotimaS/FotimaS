@@ -10,35 +10,29 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### ⚙️ Tech Stack  
 
-#### 🧩 Programming & ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 👩‍💻 Languages  
+`Python` `SQL` `C++`
 
-#### 🤖 ML & DL Frameworks
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+#### 🤖 Machine & Deep Learning  
+`Scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `SVM` `MLP` `GridSearchCV` `Linear Regression` `Logistic Regression` `Random Forest` `Decision Tree` 
 
-#### 💬 NLP Tools
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=transformers&logoColor=yellow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-0A66C2?style=for-the-badge)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-FF4088?style=for-the-badge)
+#### 🧠 NLP  
+`BERT` `HuggingFace Transformers` `TF-IDF` `Word2Vec` `Text Classification` `Sentiment Analysis` `NER`
 
-#### 🌐 Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+#### 🌐 Web & API  
+`Django` `Django REST Framework` `Swagger` `Postman`
 
-#### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-7BB8F3?style=for-the-badge)
+#### 🗄 Databases  
+`MySQL` `PostgreSQL` `SQLite`
 
+#### 📊 Data Analysis & Visualization  
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+#### 🧩 Tools  
+`Jupyter` `VS Code` `Google Colab` `Git/GitHub` `Docker` `Anaconda`
+---
 ---
 
 ### 🌍 Languages  
