@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hi, I'm Fotima Sayfullayeva</h1>
-<h3 align="center">💫 Junior Machine Learning Engineer | NLP & AI Enthusiast | Backend Developer</h3>
-
+<!-- Profil banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Fotima!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Junior%20Machine%20Learning%20Engineer%20%7C%20Backend%20Developer%20%7C%20NLP%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 ---
 
 ### 🧠 About Me  
@@ -44,25 +43,23 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FotimaS&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FotimaS&theme=radical" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=FotimaS&theme=radical&show_icons=true&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=FotimaS&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaS&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FotimaS&layout=compact&theme=radical" />
+</p>
 
-</div>
 
 ---
 
-### 🏆 Achievements & Badges
-![](https://github-profile-trophy.vercel.app/?username=FotimaS&theme=radical&no-frame=true&no-bg=true&margin-w=5)
-
---- 
-
-### 📘 Assignments  
-> 🧠 Here I upload my course and university assignments on ML, NLP, and AI.  
-> 📂 [Check Assignments Folder »](https://github.com/FotimaS?tab=repositories)
-
+### 📂 Repositories  
+> - 🚀 [Learning Projects](https://github.com/FotimaS/learning_projects) – My self-study and experiment-based ML/AI projects.  
+> - 💡 [University Assignments](https://github.com/FotimaS/assignments) – Coursework and academic ML/AI tasks.  
+> - ⚙️ [Backend_Apps](https://github.com/FotimaS) – Django-based backend APIs and systems.
+> - 📘 [Projects](https://github.com/FotimaS/projects) - Projects on kaggle datasets
 ---
 
 ### 🌟 Connect with Me  
@@ -73,3 +70,5 @@
 ---
 
 ✨ *“Learning never exhausts the mind.” – Leonardo da Vinci*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
