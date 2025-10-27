@@ -3,9 +3,9 @@
 <h3 align="center">💻 Junior Machine Learning Engineer | NLP & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:fotima.email@example.com"><img src="https://img.shields.io/badge/Email-fotima.email@example.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/fotima-sayfullayeva"><img src="https://img.shields.io/badge/LinkedIn-Fotima%20Sayfullayeva-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/FotimaSayfullayeva"><img src="https://img.shields.io/badge/GitHub-FotimaSayfullayeva-black?style=flat-square&logo=github"></a>
+  <a href="mailto:fotimasayfullayeva6@gmail.com"><img src="https://img.shields.io/badge/Email-fotimasayfullayeva6@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/fotima-sayfullayeva/"><img src="https://img.shields.io/badge/LinkedIn-Fotima%20Sayfullayeva-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/FotimaS"><img src="https://img.shields.io/badge/GitHub-FotimaS-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
