@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Fotima Sayfullayeva</h1>
-<h3 align="center">💫 Junior Machine Learning Engineer | NLP & AI Enthusiast</h3>
+<h3 align="center">💫 Junior Machine Learning Engineer | NLP & AI Enthusiast | Backend Developer</h3>
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ### 🌍 Languages  
-| 🇺🇿 Uzbek | 🇬🇧 English | 🇷🇺 Russian | 🇹🇷 Turkish | 🇨🇳 Chinese |
+| Uzbek | English | Russian | Turkish | Chinese |
 |:---:|:---:|:---:|:---:|:---:|
 | Native | Upper-Intermediate | Upper-Intermediate | Basic | Beginner |
 
@@ -61,29 +61,24 @@
 ---
 
 ### 🏆 Achievements & Badges
-![](https://github-profile-trophy.vercel.app/?username=FotimaSayfullayeva&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=FotimaS&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
----
+--- 
 
-### 📂 Projects  
-🩺 **Stroke Prediction using ML** — Health Data Analytics  
-📝 **Essay Scoring (NLP)** — Automated Text Scoring  
-💬 **Sentiment Analysis (Transformer-based)** — Text Classification  
-
-> 🔗 [View all projects here »](https://github.com/FotimaSayfullayeva?tab=repositories)
+> 🔗 [View all projects here »](https://github.com/FotimaS?tab=repositories)
 
 ---
 
 ### 📘 Assignments  
 > 🧠 Here I upload my course and university assignments on ML, NLP, and AI.  
-> 📂 [Check Assignments Folder »](https://github.com/FotimaSayfullayeva?tab=repositories)
+> 📂 [Check Assignments Folder »](https://github.com/FotimaS?tab=repositories)
 
 ---
 
 ### 🌟 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FotimaSayfullayeva)
-[![Email](https://img.shields.io/badge/Email-fotima@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FotimaS)
+[![Email](https://img.shields.io/badge/Email-fotimasayfullayeva6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ---
 
