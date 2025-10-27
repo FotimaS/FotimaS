@@ -65,10 +65,6 @@
 
 --- 
 
-> 🔗 [View all projects here »](https://github.com/FotimaS?tab=repositories)
-
----
-
 ### 📘 Assignments  
 > 🧠 Here I upload my course and university assignments on ML, NLP, and AI.  
 > 📂 [Check Assignments Folder »](https://github.com/FotimaS?tab=repositories)
@@ -76,7 +72,7 @@
 ---
 
 ### 🌟 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/fotima-sayfullayeva/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FotimaS)
 [![Email](https://img.shields.io/badge/Email-fotimasayfullayeva6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]()
 
